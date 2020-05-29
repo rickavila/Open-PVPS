@@ -1,2 +1,2 @@
 # Open-PVPS
-Open source pandemic virus protection systems
+Open Source Pandemic Virus Protection Systems
