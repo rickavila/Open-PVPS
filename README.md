@@ -8,7 +8,7 @@ To achieve this we are working to significantly reduce the manufacturing and ope
 This repository contains a directory for "technical notes" and another directory with CAD designs. 
 
 The technical notes directory contains documents that describe the technical work, calculations, and decisions that have been made for each major PAPR technical area. The major technical areas are:
-* Overall System Specifications and Performance
+* Overall PAPR System Specifications and Performance
 * Face Shield, Visor, and Drape
 * Power and Control Box
 * Blower, Gauge, and Diffuser
