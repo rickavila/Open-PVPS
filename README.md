@@ -1,6 +1,7 @@
-![PVPS1 3 6-CADImage](https://user-images.githubusercontent.com/5749559/111144246-373b0680-855d-11eb-9e92-ac751901b997.gif)
 # Open-PVPS
 Open Source Pandemic Virus Protection Systems
+
+![PVPS1 3 6-CADImage](https://user-images.githubusercontent.com/5749559/111144564-9862da00-855d-11eb-93c3-2700d11895fd.gif)
 
 Our goal is to develop open source pandemic virus protection technology that will significantly improve the safety of healthcare workers on the front lines of COVID-19.
 
