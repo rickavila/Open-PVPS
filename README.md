@@ -1,3 +1,4 @@
+![PVPS1 3 6-CADImage](https://user-images.githubusercontent.com/5749559/111144246-373b0680-855d-11eb-9e92-ac751901b997.gif)
 # Open-PVPS
 Open Source Pandemic Virus Protection Systems
 
