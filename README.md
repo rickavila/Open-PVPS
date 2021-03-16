@@ -11,7 +11,7 @@ This repository contains a directory for "technical reports", a directory for CA
 
 The technical reports directory contains documents that describe the technical work, calculations, and decisions that have been made for each major PAPR technical area. The major technical areas are:
 * Overall PAPR System Specifications and Performance
-* Face Shield, Visor, and Drape
+* Face Shield, Visor, and Drape (coming soon)
 * Power and Control Box
 * Blower, Gauge, and Diffuser
 * Filter
