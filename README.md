@@ -19,3 +19,5 @@ The technical reports directory contains documents that describe the technical w
 The CAD directory contains CAD files used to deveop the first PVPS prototypes. The file format is Autodesk Fusion 360. In the future we will also post STL files for anyone that would like to print out the 3D printed components.
 
 The electronics directory contains files that define the physical circuit boards for the battery box and the program for the control board microprocessor. All of the electronics were designed by Jim Hannas with inputs from the team.
+
+This project has a website at http://open-pvps.org
